@@ -11,3 +11,8 @@ $ pip install -r requirements.txt
 ```
 
 You will be assigned breakout rooms to work in pairs or small groups. Run the notebooks using the `jupyter` command.
+
+
+## References
+
+Chen, Yang. Early Anomaly Detection and Classification with Streaming Synchrophasor Data in Electric Energy Systems. Diss. 2015. https://oaktrust.library.tamu.edu/handle/1969.1/156508
